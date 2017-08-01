@@ -3,7 +3,7 @@
     "Id": "ActivityFeed",
     "Name": "Show recent activity",
     "Author" :  "Voter-Science",
-    "Website" :  "https://github.com/Voter-Science/TRC-API-Samples",
+    "Website" :  "https://github.com/Voter-Science/trc.activityfeed",
     "Description": "Show recent activity and news for sheets you have access to.",        
     "Version": "1.0.0", // User SemVer
     "Tags": [ "feed"  ]
